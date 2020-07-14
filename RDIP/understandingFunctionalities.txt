@@ -1,0 +1,3 @@
+Once i press the Experiment it opens the dropdown to select corpus
+Afer selecting the corpus it opens the TOKENS and TYPES form blocks.
+If it is correct it opens the SUBMIT button After I submitting the button it shows NEWTYPE form block
